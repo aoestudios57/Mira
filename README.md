@@ -106,8 +106,4 @@ Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
 
 ---
 
-## Kontakt
 
-Bei Fragen oder Problemen können Sie ein Issue im GitHub-Repository erstellen oder mich direkt kontaktieren:
-- **E-Mail**: [Ihre E-Mail-Adresse]
-- **GitHub**: [Ihr GitHub-Profil](https://github.com/IhrBenutzername)
